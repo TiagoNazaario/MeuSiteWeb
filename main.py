@@ -20,6 +20,8 @@ def Contatos():
 def usuarios(nome_usuario):
     return render_template("usuarios.html", nome_usuario=nome_usuario)
 
-#colocar o site no ar
+##colocar o site no ar
 if __name__ == "__main__":
     app.run(debug=True)
+
+    ##Servidor do Heroku

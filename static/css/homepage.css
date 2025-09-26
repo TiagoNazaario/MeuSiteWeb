@@ -1,0 +1,11 @@
+body {
+            background-color: rgba(231, 56, 56, 0.925);
+        }
+        div#title {
+            color: rgb(8, 180, 238);
+            font: normal 60pt Times;
+            background-color: rgba(0, 0, 0, 0.445);
+            width: 500px;
+            height: 100px;
+            text-align: center;
+        }
